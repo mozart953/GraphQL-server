@@ -1,6 +1,8 @@
-const express = require('express')
+import express from 'express';
+import {graphqlHTTP} from 'express-graphql';
 
-console.log('testing')
+
+
 const app = express();
 
 app.listen(3000, ()=>{
