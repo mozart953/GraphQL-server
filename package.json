@@ -17,6 +17,7 @@
     "express-graphql": "^0.12.0",
     "graphql": "^16.6.0",
     "graphql-tools": "^8.3.19",
+    "moongose": "^1.0.0",
     "rimraf": "^4.4.0"
   },
   "devDependencies": {
